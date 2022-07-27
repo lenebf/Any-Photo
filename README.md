@@ -1,4 +1,4 @@
-**Privacy Policy**
+**[Privacy Policy](./PRIVACY.md)**
 
 lenebf built the Any Photo Widget app as a Free app. This SERVICE is provided by lenebf at no cost and is intended for use as is.
 
